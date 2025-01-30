@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react-native-mobile-app",
+    "slug": "react-native-mobile-app"
+  }
+}
